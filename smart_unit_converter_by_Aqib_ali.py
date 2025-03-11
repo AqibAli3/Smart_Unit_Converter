@@ -171,7 +171,7 @@ st.sidebar.markdown('<div class="coming-soon">🌟 Currency Converter 🌟</div>
 
 # Title and description with an emoji in the title
 st.title("🧮 Smart Unit Converter by Aqib Ali")
-st.write("Convert units easily with our intuitive converter. 🌐📐🧮")
+st.write("Convert units easily with my Smart converter. 🌐📐🧮")
 
 # Dropdown for unit types
 unit_types = ["Length", "Weight", "Volume", "Area", "Data Transfer Rate", "Digital Storage", "Temperature"]
