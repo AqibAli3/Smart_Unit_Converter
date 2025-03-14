@@ -1,7 +1,6 @@
 # Smart Unit Converter by Aqib Ali 🧮
 
-**Deployed at:** [[https://share.streamlit.io/yourusername/your-app-repo](https://share.streamlit.io/yourusername/your-app-repo](https://smart-unit-converter-by-aqib-ali.streamlit.app/))
-
+**Deployed at:** (https://smart-unit-converter-by-aqib-ali.streamlit.app/)
 ## Overview
 Smart Unit Converter by Aqib Ali is a user-friendly Streamlit app that allows you to easily convert values between various measurement units. The app supports multiple categories such as Length, Weight, Volume, Area, Data Transfer Rate, Digital Storage, and Temperature.
 
