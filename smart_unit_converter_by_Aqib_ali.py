@@ -28,16 +28,7 @@ st.markdown(
         text-align: center;
         margin-bottom: 20px;
     }
-    # h1::before {
-    #     content: "🔄";
-    #     font-size: 2.5rem;
-    #     margin-right: 10px;
-    # }
-    # h1::after {
-    #     content: "🔄";
-    #     font-size: 2.5rem;
-    #     margin-left: 10px;
-    # }
+   
     .stTextInput label {
         font-size: 1.1rem;
         color: #333;
@@ -171,7 +162,10 @@ st.sidebar.markdown('<div class="coming-soon">🌟 Currency Converter 🌟</div>
 
 # Title and description with an emoji in the title
 st.title("🧮 Smart Unit Converter by Aqib Ali")
-st.write("Convert units easily with my Smart converter. 🌐📐🧮")
+st.write("Convert units easily with our intuitive converter. 🌐📐🧮")
+
+# Add picture/banner
+st.image("https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRSlTcv2DkkJjY4KsZ7iFFM4hFymJQpzboJZg&s", caption="Smart Unit Converter", use_column_width=True)
 
 # Dropdown for unit types
 unit_types = ["Length", "Weight", "Volume", "Area", "Data Transfer Rate", "Digital Storage", "Temperature"]
